@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WebViewDemo</string>
+    <string name="title_home">首页</string>
+    <string name="title_discover">发现</string>
+    <string name="title_mine">我的</string>
+    <string name="js_call_android_1">js调用android代码方式1</string>
+    <string name="js_call_android_2">js调用android代码方式2</string>
+    <string name="js_call_android_3">js调用android代码方式3</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
